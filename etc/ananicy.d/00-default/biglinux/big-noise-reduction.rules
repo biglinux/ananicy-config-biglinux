@@ -1,0 +1,9 @@
+# https://github.com/biglinux/biglinux-noise-reduction-pipewire
+
+# Pt-Br
+# Para criação de conteúdo, conferências ou streaming, descomente a opção abaixo.
+# { "name": "biglinux-noise-reduction-pipewire", "type": "LowLatency_RT" }
+
+# Opção padrão, maior latência, mas uma opção mais "fair" com os outros processos.
+# Comente essa linha pra usar o modo realtime.
+{ "name": "biglinux-noise-reduction-pipewire", "type": "BG_CPUIO" }

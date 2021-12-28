@@ -1,0 +1,7 @@
+# https://store.steampowered.com/
+
+# Steam client
+{ "name": "steam", "type": "BG_CPUIO" }
+
+# Steam integrated web browser
+{ "name": "steamwebhelper", "type": "BG_CPUIO" }

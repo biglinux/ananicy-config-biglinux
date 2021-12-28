@@ -1,0 +1,3 @@
+# https://github.com/rustdesk/rustdesk
+
+{ "name": "rustdesk", "type": "LowLatency_RT" }

@@ -1,0 +1,4 @@
+# https://www.epicgames.com/store/
+
+{ "name": "EpicGamesLaunch", "type": "BG_CPUIO" }
+{ "name": "EpicWebHelper.exe", "type": "BG_CPUIO" }

@@ -1,0 +1,4 @@
+# Pt-Br
+# Programa para gerenciamento de pacotes no Manjaro e derivados
+# pamac-tray-plasma e pamac-daemon usam o IO padrão
+{ "name": "pamac-manager", "type": "BG_CPUIO" }

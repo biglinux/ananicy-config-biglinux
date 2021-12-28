@@ -1,0 +1,3 @@
+# https://github.com/KDE/latte-dock
+
+{ "name": "latte-dock", "type": "BG_CPUIO" }

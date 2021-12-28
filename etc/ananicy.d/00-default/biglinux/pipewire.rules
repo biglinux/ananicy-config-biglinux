@@ -1,0 +1,5 @@
+# https://github.com/PipeWire/pipewire
+
+{ "name": "pipewire", "type": "LowLatency_RT", "nice": -12, "sched": "rr" }
+{ "name": "pipewire-pulse", "type": "LowLatency_RT", "nice": -12, "sched": "rr" }
+{ "name": "pipewire-media-session", "type": "LowLatency_RT" }

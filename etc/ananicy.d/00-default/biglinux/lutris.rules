@@ -1,0 +1,3 @@
+# https://github.com/lutris/lutris
+
+{ "name": "lutris", "type": "BG_CPUIO" }

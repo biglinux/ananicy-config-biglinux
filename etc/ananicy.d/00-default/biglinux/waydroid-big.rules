@@ -1,0 +1,4 @@
+# https://github.com/biglinux/waydroid-biglinux
+
+{ "name": "waydroid", "type": "LowLatency_RT" }
+{ "name": "waydroid-big", "type": "LowLatency_RT" }

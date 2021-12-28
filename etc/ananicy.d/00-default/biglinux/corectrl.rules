@@ -1,0 +1,4 @@
+# https://gitlab.com/corectrl/corectrl
+
+{ "name": "corectrl", "type": "BG_CPUIO" }
+{ "name": "corectrl-helper", "type": "BG_CPUIO" }
